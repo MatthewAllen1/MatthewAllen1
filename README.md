@@ -9,11 +9,13 @@ Welcome to my GitHub profile! I'm a data analyst and developer at Coca-Cola, pas
 
 ### Skills and Interests
 
-- Data Science
 - Artificial Intelligence
 - Dashboard Building/Maintenance
 - Power BI
 - Tableau
+- Python
+- SQL
+- Data Science
 - Executive Communication
 - Management
 - Leadership
