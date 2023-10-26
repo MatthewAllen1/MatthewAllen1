@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a data analyst and developer at Coca-Cola, passionate about leveraging data for meaningful insights and creating valuable software solutions. Here's a bit about me:
 
 - 👀 I’m interested in data analytics, data science, machine learning, and the intersection of technology and business.
-- 🌱 I’m currently learning and staying up to date with the latest trends in data analytics, machine learning, and development. Really anything I can get my hands on.
+- 🌱 I’m currently learning and staying up to date with the latest trends in data analytics and artificial intelligence. Really anything I can get my hands on.
 - 💞️ I’m looking to collaborate on open-source projects related using tools like Power BI and Tableau.
 - 📫 How to reach me: You can connect with me here on GitHub, or you can reach out to me via LinkedIn at https://www.linkedin.com/in/matthewallenmisgrad
 
