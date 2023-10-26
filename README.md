@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a data analyst and developer at Coca-Cola, pas
 - Leadership
 - Teamwork
 
-Feel free to explore my repositories to see some of the projects I've worked on, and don't hesitate to get in touch if you'd like to collaborate or discuss anything related to data analytics, data science, or development.
+Feel free to explore my repositories to see some of the projects I've worked on, and don't hesitate to get in touch if you'd like to collaborate or discuss anything related to data.
 
 <!---
 MatthewAllen1/MatthewAllen1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
