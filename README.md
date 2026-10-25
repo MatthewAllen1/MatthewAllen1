@@ -41,6 +41,17 @@ I hold an **MBA from the University of Oklahoma** and a **B.S. in Management Inf
 
 > Product mentions describe professional familiarity, not endorsements or the publication of employer-specific configurations.
 
+## Security engineering labs
+
+Four original, defensive Python projects using synthetic data, documented detection logic, and unit tests. Explore the [Security Engineering Labs](./security-labs/README.md):
+
+- **[Authentication Detection](./security-labs/authentication-detection/)** — Identify potential password spraying and repeated authentication failures.
+- **[Identity Access Review](./security-labs/identity-access-review/)** — Flag stale active accounts and privileged access without MFA.
+- **[Vulnerability Prioritization](./security-labs/vulnerability-prioritization/)** — Explainable, risk-informed remediation scoring with synthetic assets.
+- **[File Integrity Monitor](./security-labs/file-integrity-monitor/)** — SHA-256 baselining and local file change detection.
+
+These are educational proofs of concept, not production-ready security controls.
+
 ## Featured work
 
 These public repositories show the programming and analytical foundations I bring to security engineering. Projects are labeled accurately; historical learning projects are not presented as production security tools.
@@ -52,10 +63,6 @@ These public repositories show the programming and analytical foundations I brin
 | 🗃️ **[Golden Age of Video Games](https://github.com/MatthewAllen1/Golden-Age-of-Video-Games)** | PostgreSQL, queries, data analysis, reproducible notebooks. |
 | 🧠 **[AI Search Algorithms (CS50)](https://github.com/MatthewAllen1/Project0)** | Coursework exploring graph search and minimax algorithms. |
 | 🧩 **[AI Knowledge & Logic (CS50)](https://github.com/MatthewAllen1/Project1)** | Coursework exploring propositional logic and game reasoning. |
-
-### What I'm developing
-
-My next portfolio focus is on **independently reproducible security labs**: security-event pipelines and detections, identity review automation with synthetic data, and vulnerability prioritization workflows. These are goals, **not yet completed public projects**.
 
 ## My approach
 
