@@ -14,7 +14,7 @@
 
 ## About me
 
-I'm a **Security Engineer at Packsize** with a background in systems administration, software scripting, analytics, and business intelligence. I focus on the intersection of **security engineering and security operations**: finding gaps, developing practical controls and automation, building stronger visibility, and making risk easier to understand and address.
+I'm a **Security Engineer** with a background in systems administration, software scripting, analytics, and business intelligence. I focus on the intersection of **security engineering and security operations**: finding gaps, developing practical controls and automation, building stronger visibility, and making risk easier to understand and address.
 
 I hold an **MBA from the University of Oklahoma** and a **B.S. in Management Information Systems from Utah Valley University**. I enjoy connecting hands-on technical work with measurable business outcomes.
 
