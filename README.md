@@ -1,78 +1,77 @@
 <div align="center">
 
 # Matthew Allen, MBA
-### Security Engineer · Security Automation · Detection Engineering · Identity Security
 
-**Building security systems that turn complex signals into clear, actionable decisions.**
+### Security Engineer | Detection Engineering · Identity Security · Security Automation
+
+**I turn complex security signals into repeatable, explainable engineering workflows.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-allen-mba/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatthewAllen1?tab=repositories)
+[![Security Labs](https://img.shields.io/badge/Security_Labs-Explore-16263A?style=for-the-badge&logo=python&logoColor=white)](./security-labs/README.md)
+
+[![Security lab tests](https://github.com/MatthewAllen1/MatthewAllen1/actions/workflows/security-labs-ci.yml/badge.svg)](https://github.com/MatthewAllen1/MatthewAllen1/actions/workflows/security-labs-ci.yml)
 
 </div>
 
 ---
 
-## About me
+## 🔐 Security engineering — proof of work
 
-I'm a **Security Engineer** with a background in systems administration, software scripting, analytics, and business intelligence. I focus on the intersection of **security engineering and security operations**: finding gaps, developing practical controls and automation, building stronger visibility, and making risk easier to understand and address.
+**Four reproducible Python projects using fictional data**, complete with unit tests, documented assumptions, and automated checks. These are personal security engineering labs—not production systems.
 
-I hold an **MBA from the University of Oklahoma** and a **B.S. in Management Information Systems from Utah Valley University**. I enjoy connecting hands-on technical work with measurable business outcomes.
+| Project | Engineering evidence | Run and review |
+|:--|:--|:--|
+| **Authentication Detection** | Sliding windows, password-spray hypotheses, alert deduplication, MITRE ATT&CK context | [Code, sample events and tests](./security-labs/authentication-detection/README.md) |
+| **Identity Access Review** | Privileged-role analysis, dormant account checks, MFA coverage, validation | [Code, policies and tests](./security-labs/identity-access-review/README.md) |
+| **Vulnerability Prioritization** | Explainable ranking from severity, simulated exploitation, exposure and asset value | [Scoring logic and tests](./security-labs/vulnerability-prioritization/README.md) |
+| **File Integrity Monitoring** | SHA-256 baselines and deterministic change detection | [CLI, threat model and tests](./security-labs/file-integrity-monitor/README.md) |
 
-**What drives my work:** engineering repeatable security processes, improving detection and response, reducing identity and endpoint risk, and using data to prioritize what matters most.
+**Verification:** [CI workflow and run history](https://github.com/MatthewAllen1/MatthewAllen1/actions/workflows/security-labs-ci.yml) · [Architecture and engineering trade-offs](./security-labs/ARCHITECTURE.md) · [Reproduce the projects](./security-labs/README.md)
 
-## Security engineering focus
+## ⚙️ What I focus on
 
-| Discipline | Areas of interest and experience |
+| Focus | What I work toward |
 |:--|:--|
-| **Detection & response** | Alert triage, investigation workflows, log visibility, detection logic, response playbooks |
-| **Identity security** | Privileged access, access reviews, authentication policies, identity lifecycle, IAM automation |
-| **Vulnerability management** | Exposure analysis, remediation prioritization, risk-based reporting, asset visibility |
-| **Security automation** | Python and PowerShell scripting, REST API integrations, repeatable checks, operational efficiency |
-| **Security analytics** | Data modeling, reporting, dashboards, translating technical signals into decisions |
-| **Endpoint & cloud security** | Endpoint security operations, Microsoft security ecosystem, cloud identity controls |
+| **Detection & response** | High-fidelity signals, triage workflows, investigation context, useful alert output |
+| **Security automation** | Python, PowerShell, REST APIs, repeatable validation, reducing manual effort |
+| **Identity security** | Privileged access, MFA, lifecycle controls, least privilege and access reviews |
+| **Vulnerability management** | Risk-based remediation, asset context, prioritization and visibility |
+| **Security analytics** | Turning security events and exposure data into metrics and actionable reports |
 
-## Technical toolkit
+## 👋 Background
 
-**Programming & data:** Python · PowerShell · SQL · Git · REST APIs · Power BI
+I'm a **Security Engineer** with experience spanning security operations, systems administration, scripting, and business intelligence. My interests sit at the intersection of engineering and operations: improving visibility, turning investigations into repeatable processes, and communicating technical risk so teams can act on it.
 
-**Security platforms I've worked with:** CrowdStrike Falcon · Rapid7 · Microsoft Defender · Okta · Microsoft Entra ID · Zscaler · Proofpoint
+I hold an **MBA from the University of Oklahoma** and a **B.S. in Management Information Systems from Utah Valley University**. That combination shapes how I approach security: understand the technical risk, design a practical control, validate it, and explain the outcome.
 
-**Other areas:** Windows & Linux · SIEM and log analysis · Automation · Identity governance · Security metrics · Technical documentation
+**Tooling and technologies:** Python · PowerShell · SQL · REST APIs · Git · Power BI · Windows · Linux · Microsoft Entra ID · Okta · Microsoft Defender · CrowdStrike · Rapid7 · Zscaler · Proofpoint
 
-> Product mentions describe professional familiarity, not endorsements or the publication of employer-specific configurations.
+*Vendor names describe professional tool familiarity. Public code does not include vendor credentials, internal integrations, or confidential configurations.*
 
-## Security engineering labs
+## 🧪 Additional programming foundations
 
-Four original, defensive Python projects using synthetic data, documented detection logic, and unit tests. Explore the [Security Engineering Labs](./security-labs/README.md):
-
-- **[Authentication Detection](./security-labs/authentication-detection/)** — Identify potential password spraying and repeated authentication failures.
-- **[Identity Access Review](./security-labs/identity-access-review/)** — Flag stale active accounts and privileged access without MFA.
-- **[Vulnerability Prioritization](./security-labs/vulnerability-prioritization/)** — Explainable, risk-informed remediation scoring with synthetic assets.
-- **[File Integrity Monitor](./security-labs/file-integrity-monitor/)** — SHA-256 baselining and local file change detection.
-
-These are educational proofs of concept, not production-ready security controls.
-
-## Featured work
-
-These public repositories show the programming and analytical foundations I bring to security engineering. Projects are labeled accurately; historical learning projects are not presented as production security tools.
-
-| Project | Engineering skills demonstrated |
+| Repository | What it demonstrates |
 |:--|:--|
-| 🔐 **[Local Password Generator](https://github.com/MatthewAllen1/Professional-Password-Generator)** | Python desktop tooling, password generation, secure coding and validation. [Security-hardening changes](https://github.com/MatthewAllen1/Professional-Password-Generator/pull/1). |
-| 📊 **[Python in Power BI](https://github.com/MatthewAllen1/Python-in-PowerBI)** | Python integration, data transformation, exploratory reporting, visualization. |
-| 🗃️ **[Golden Age of Video Games](https://github.com/MatthewAllen1/Golden-Age-of-Video-Games)** | PostgreSQL, queries, data analysis, reproducible notebooks. |
-| 🧠 **[AI Search Algorithms (CS50)](https://github.com/MatthewAllen1/Project0)** | Coursework exploring graph search and minimax algorithms. |
-| 🧩 **[AI Knowledge & Logic (CS50)](https://github.com/MatthewAllen1/Project1)** | Coursework exploring propositional logic and game reasoning. |
+| [Local Password Generator](https://github.com/MatthewAllen1/Professional-Password-Generator) | Cryptographically secure randomness, defensive input validation, Windows GUI, automated unit tests |
+| [Python in Power BI](https://github.com/MatthewAllen1/Python-in-PowerBI) | Data processing, Python visualization and business reporting |
+| [Video Game Industry Analysis](https://github.com/MatthewAllen1/Golden-Age-of-Video-Games) | PostgreSQL and notebook-based exploratory analysis |
+| [CS50 Search and Game AI](https://github.com/MatthewAllen1/Project0) | Attributed coursework in graph search and minimax |
+| [CS50 Logic and Reasoning](https://github.com/MatthewAllen1/Project1) | Attributed coursework in formal logic and game reasoning |
 
-## My approach
+## 🛠 Engineering philosophy
 
-**Understand the exposure → build visibility → prioritize risk → automate the repeatable work → validate the outcome.**
+**Understand the exposure → build visibility → prioritize the risk → automate safely → test assumptions → document decisions.**
 
-I believe strong security engineering requires both technical depth and communication: a detection that nobody can operate, or a dashboard that nobody can act on, isn't finished.
+Security tooling is most useful when the findings are transparent, the false positives are understood, and another engineer can reproduce the result.
 
-## Connect
+---
 
-- **LinkedIn:** [linkedin.com/in/matthew-allen-mba](https://www.linkedin.com/in/matthew-allen-mba/)
-- **GitHub:** [github.com/MatthewAllen1](https://github.com/MatthewAllen1)
+<div align="center">
 
-<sub>Public repositories are personal projects, demonstrations, or attributed coursework. No proprietary employer code, live customer data, internal findings, or confidential configurations are published here.</sub>
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/matthew-allen-mba/) · [GitHub Projects](https://github.com/MatthewAllen1?tab=repositories) · [Security Lab Source](./security-labs/README.md)
+
+<sub>All featured security labs use synthetic data and are provided for education. No employer code, private infrastructure details, production telemetry, or confidential findings are published here.</sub>
+
+</div>
