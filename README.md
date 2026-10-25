@@ -1,29 +1,71 @@
-# Matthew Allen
-### Security Engineer | Security Automation • Identity Security • Detection Engineering
+<div align="center">
 
-I build practical security tooling and workflows focused on reducing risk, improving visibility, and making security operations repeatable.
+# Matthew Allen, MBA
+### Security Engineer · Security Automation · Detection Engineering · Identity Security
 
-My background spans security engineering, systems administration, Python development, data analytics, and business intelligence. I'm particularly interested in connecting engineering and security operations: building reliable integrations, using data to prioritize remediation, and transforming manual investigations into reproducible workflows.
+**Building security systems that turn complex signals into clear, actionable decisions.**
 
-**Focus areas:** Security automation · Incident response · Detection engineering · IAM · Vulnerability management · Cloud and endpoint security · Security metrics
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-allen-mba/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatthewAllen1?tab=repositories)
 
-**Technologies and skills:** Python · SQL · PowerShell · Git · REST APIs · Microsoft Entra ID · Okta · Microsoft Defender · CrowdStrike · Rapid7 · Power BI
+</div>
 
-## Selected projects
+---
 
-| Project | What it demonstrates |
-| --- | --- |
-| [Password Generator](https://github.com/MatthewAllen1/Professional-Password-Generator) | Local Python GUI, security-oriented randomness, validation, and tests (see the modernization pull request while improvements are under review) |
-| [Python in Power BI](https://github.com/MatthewAllen1/Python-in-PowerBI) | Python-based data processing and visualization in a reporting workflow |
-| [Golden Age of Video Games](https://github.com/MatthewAllen1/Golden-Age-of-Video-Games) | SQL, exploratory analysis, and notebook-based reporting |
-| [CS50 AI Project 0](https://github.com/MatthewAllen1/Project0) | Introductory search algorithms and game AI (coursework) |
-| [CS50 AI Project 1](https://github.com/MatthewAllen1/Project1) | Logic and reasoning algorithms (coursework) |
+## About me
 
-My older projects document my progression through programming, business intelligence, and AI. I'm developing a stronger public portfolio around independently reproducible security engineering work using synthetic data and isolated lab environments.
+I'm a **Security Engineer at Packsize** with a background in systems administration, software scripting, analytics, and business intelligence. I focus on the intersection of **security engineering and security operations**: finding gaps, developing practical controls and automation, building stronger visibility, and making risk easier to understand and address.
+
+I hold an **MBA from the University of Oklahoma** and a **B.S. in Management Information Systems from Utah Valley University**. I enjoy connecting hands-on technical work with measurable business outcomes.
+
+**What drives my work:** engineering repeatable security processes, improving detection and response, reducing identity and endpoint risk, and using data to prioritize what matters most.
+
+## Security engineering focus
+
+| Discipline | Areas of interest and experience |
+|:--|:--|
+| **Detection & response** | Alert triage, investigation workflows, log visibility, detection logic, response playbooks |
+| **Identity security** | Privileged access, access reviews, authentication policies, identity lifecycle, IAM automation |
+| **Vulnerability management** | Exposure analysis, remediation prioritization, risk-based reporting, asset visibility |
+| **Security automation** | Python and PowerShell scripting, REST API integrations, repeatable checks, operational efficiency |
+| **Security analytics** | Data modeling, reporting, dashboards, translating technical signals into decisions |
+| **Endpoint & cloud security** | Endpoint security operations, Microsoft security ecosystem, cloud identity controls |
+
+## Technical toolkit
+
+**Programming & data:** Python · PowerShell · SQL · Git · REST APIs · Power BI
+
+**Security platforms I've worked with:** CrowdStrike Falcon · Rapid7 · Microsoft Defender · Okta · Microsoft Entra ID · Zscaler · Proofpoint
+
+**Other areas:** Windows & Linux · SIEM and log analysis · Automation · Identity governance · Security metrics · Technical documentation
+
+> Product mentions describe professional familiarity, not endorsements or the publication of employer-specific configurations.
+
+## Featured work
+
+These public repositories show the programming and analytical foundations I bring to security engineering. Projects are labeled accurately; historical learning projects are not presented as production security tools.
+
+| Project | Engineering skills demonstrated |
+|:--|:--|
+| 🔐 **[Local Password Generator](https://github.com/MatthewAllen1/Professional-Password-Generator)** | Python desktop tooling, password generation, secure coding and validation. [Security-hardening update under review](https://github.com/MatthewAllen1/Professional-Password-Generator/pull/1). |
+| 📊 **[Python in Power BI](https://github.com/MatthewAllen1/Python-in-PowerBI)** | Python integration, data transformation, exploratory reporting, visualization. |
+| 🗃️ **[Golden Age of Video Games](https://github.com/MatthewAllen1/Golden-Age-of-Video-Games)** | PostgreSQL, queries, data analysis, reproducible notebooks. |
+| 🧠 **[AI Search Algorithms (CS50)](https://github.com/MatthewAllen1/Project0)** | Coursework exploring graph search and minimax algorithms. |
+| 🧩 **[AI Knowledge & Logic (CS50)](https://github.com/MatthewAllen1/Project1)** | Coursework exploring propositional logic and game reasoning. |
+
+### What I'm developing
+
+My next portfolio focus is on **independently reproducible security labs**: security-event pipelines and detections, identity review automation with synthetic data, and vulnerability prioritization workflows. These are goals, **not yet completed public projects**.
+
+## My approach
+
+**Understand the exposure → build visibility → prioritize risk → automate the repeatable work → validate the outcome.**
+
+I believe strong security engineering requires both technical depth and communication: a detection that nobody can operate, or a dashboard that nobody can act on, isn't finished.
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/matthewallenmisgrad)
-- [Repositories](https://github.com/MatthewAllen1?tab=repositories)
+- **LinkedIn:** [linkedin.com/in/matthew-allen-mba](https://www.linkedin.com/in/matthew-allen-mba/)
+- **GitHub:** [github.com/MatthewAllen1](https://github.com/MatthewAllen1)
 
-> Public projects are personal learning and demonstration work. They do not disclose employer systems, confidential findings, production telemetry, or internal tooling.
+<sub>Public repositories are personal projects, demonstrations, or attributed coursework. No proprietary employer code, live customer data, internal findings, or confidential configurations are published here.</sub>
