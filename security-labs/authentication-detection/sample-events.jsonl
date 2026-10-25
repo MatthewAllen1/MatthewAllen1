@@ -1,0 +1,4 @@
+{"timestamp":"2026-01-01T12:00:00Z","user":"alex@example.invalid","ip":"192.0.2.10","result":"failure"}
+{"timestamp":"2026-01-01T12:01:00Z","user":"blair@example.invalid","ip":"192.0.2.10","result":"failure"}
+{"timestamp":"2026-01-01T12:02:00Z","user":"casey@example.invalid","ip":"192.0.2.10","result":"failure"}
+{"timestamp":"2026-01-01T12:03:00Z","user":"drew@example.invalid","ip":"192.0.2.11","result":"success"}
