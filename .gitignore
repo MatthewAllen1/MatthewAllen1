@@ -1,0 +1,22 @@
+# Python development artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# Editor and local environment files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
