@@ -58,7 +58,7 @@ These public repositories show the programming and analytical foundations I brin
 
 | Project | Engineering skills demonstrated |
 |:--|:--|
-| 🔐 **[Local Password Generator](https://github.com/MatthewAllen1/Professional-Password-Generator)** | Python desktop tooling, password generation, secure coding and validation. [Security-hardening update under review](https://github.com/MatthewAllen1/Professional-Password-Generator/pull/1). |
+| 🔐 **[Local Password Generator](https://github.com/MatthewAllen1/Professional-Password-Generator)** | Python desktop tooling, password generation, secure coding and validation. [Security-hardening changes](https://github.com/MatthewAllen1/Professional-Password-Generator/pull/1). |
 | 📊 **[Python in Power BI](https://github.com/MatthewAllen1/Python-in-PowerBI)** | Python integration, data transformation, exploratory reporting, visualization. |
 | 🗃️ **[Golden Age of Video Games](https://github.com/MatthewAllen1/Golden-Age-of-Video-Games)** | PostgreSQL, queries, data analysis, reproducible notebooks. |
 | 🧠 **[AI Search Algorithms (CS50)](https://github.com/MatthewAllen1/Project0)** | Coursework exploring graph search and minimax algorithms. |
